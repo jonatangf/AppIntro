@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
 
+import com.github.jonatangf.appintro.R;
 import com.github.paolorotolo.appintro.util.LogHelper;
 
 import java.util.ArrayList;

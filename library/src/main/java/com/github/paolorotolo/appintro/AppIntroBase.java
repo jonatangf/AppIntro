@@ -22,6 +22,7 @@ import android.view.WindowManager;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 
+import com.github.jonatangf.appintro.R;
 import com.github.paolorotolo.appintro.util.LogHelper;
 
 import java.util.ArrayList;

@@ -6,6 +6,8 @@ import android.support.annotation.NonNull;
 import android.view.View;
 import android.widget.ProgressBar;
 
+import com.github.jonatangf.appintro.R;
+
 public class ProgressIndicatorController implements IndicatorController {
     public final static int DEFAULT_COLOR = 1;
     private static final int FIRST_PAGE_NUM = 0;

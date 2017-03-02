@@ -4,7 +4,10 @@ import android.os.Bundle;
 import android.support.annotation.ColorInt;
 import android.support.annotation.DrawableRes;
 
+import com.github.jonatangf.appintro.R;
+
 public final class AppIntroFragment extends AppIntroBaseFragment {
+
     public static AppIntroFragment newInstance(CharSequence title, CharSequence description,
                                                @DrawableRes int imageDrawable,
                                                @ColorInt int bgColor) {

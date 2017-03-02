@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.support.annotation.ColorInt;
 import android.support.annotation.DrawableRes;
 
+import com.github.jonatangf.appintro.R;
+
 public final class AppIntro2Fragment extends AppIntroBaseFragment {
     public static AppIntroFragment newInstance(CharSequence title, CharSequence description,
                                                @DrawableRes int imageDrawable,

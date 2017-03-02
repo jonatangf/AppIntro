@@ -17,7 +17,7 @@ package com.github.paolorotolo.appintro.util;
 
 import android.util.Log;
 
-import com.github.paolorotolo.appintro.BuildConfig;
+import com.github.jonatangf.appintro.BuildConfig;
 
 @SuppressWarnings("ALL")
 public class LogHelper {
